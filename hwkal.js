@@ -25,17 +25,17 @@ global.linkgrupss = "https://chat.whatsapp.com/HFLC4LcrYpT2whCtA0wZf3"
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'MasIqbal' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'NezBot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'MasIqbal' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6289520604246'] // ubah aja pake nomor lu
-global.creator = "6289520604246@s.whatsapp.net"
-global.premium = ['6289520604246'] // ubah aja pake nomor lu
-global.packname = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' // ubah aja
-global.ownerr = ['𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚'] // ubaha aja
-global.author = '𝘼𝙕𝙍𝙄𝙇 𝙞𝙣𝙫𝙞𝙨𝙞𝙗𝙡𝙚' //ubah aja
+global.owner = ['6283834503021'] // ubah aja pake nomor lu
+global.creator = "6283834503021@s.whatsapp.net"
+global.premium = ['6283834503021'] // ubah aja pake nomor lu
+global.packname = 'MasIqbal' // ubah aja
+global.ownerr = ['MasIqbal'] // ubaha aja
+global.author = 'MasIqbal' //ubah aja
 global.sessionName = 'haikal'
 global.sp = '⭔' // Gausah Juga
 
